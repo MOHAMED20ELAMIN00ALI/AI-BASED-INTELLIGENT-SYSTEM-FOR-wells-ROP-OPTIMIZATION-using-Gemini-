@@ -1,4 +1,4 @@
-# 🤖 AI-Based Intelligent System for ROP Optimization (Gemini-Enhanced)
+# 🤖 AI-Based Intelligent System for wells ROP Optimization (Gemini-Enhanced)
 
 Welcome to the official repository for the **Drilling Performance Optimization Simulator**. This project represents a modern approach to Petroleum Engineering, integrating the classical **Galle-Woods** analytical model with **Generative AI (Google Gemini)** for intelligent decision support.
 
